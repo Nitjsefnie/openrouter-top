@@ -26,10 +26,10 @@
       "slug": "anthropic/claude-opus-5.5"
     },
     {
-      "slug": "deepseek/deepseek-v4-flash-0731"
+      "slug": "z-ai/glm-5.3"
     },
     {
-      "slug": "z-ai/glm-5.3"
+      "slug": "deepseek/deepseek-v4-flash-0731"
     }
   ]
 }
