@@ -17,10 +17,10 @@
       "slug": "tencent/hy4-preview"
     },
     {
-      "slug": "nvidia/nemotron-3-ultra-550b-a55b"
+      "slug": "openai/gpt-6-luna"
     },
     {
-      "slug": "openai/gpt-6-luna"
+      "slug": "nvidia/nemotron-3-ultra-550b-a55b"
     },
     {
       "slug": "anthropic/claude-opus-5.5"
