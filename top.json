@@ -20,10 +20,10 @@
       "slug": "openai/gpt-6-luna"
     },
     {
-      "slug": "nvidia/nemotron-3-ultra-550b-a55b"
+      "slug": "anthropic/claude-opus-5.5"
     },
     {
-      "slug": "anthropic/claude-opus-5.5"
+      "slug": "nvidia/nemotron-3-ultra-550b-a55b"
     },
     {
       "slug": "z-ai/glm-5.3"
